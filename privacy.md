@@ -40,7 +40,7 @@ Before any data collection for analytics or ad serving, you will be prompted to 
 
     Account Data: Your logs and reflections are retained until you delete your account or request deletion.
 
-    Deletion Request: To have your data removed, please email us at support@YOUR_DOMAIN.com with “Data Deletion Request” in the subject line. We will purge your personal data within 30 days.
+    Deletion Request: To have your data removed, please email us at lettersbyt2025@gmail.com  with “Data Deletion Request” in the subject line. We will purge your personal data within 30 days.
 
 6. Security
 
